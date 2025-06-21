@@ -1,7 +1,7 @@
 # Web Scraper in C++ with OpenMP & cURL
 This C++ project demonstrates how to perform **web scraping both sequentially and in parallel** using `libcurl` and `OpenMP`. It fetches webpage titles from a list of URLs and compares the performance between sequential and parallel execution.
 
-## 🚀 Features
+## Features
   Scrapes the `<title>` tag from a list of URLs  
   Supports both:  
     **Sequential scraping**  
